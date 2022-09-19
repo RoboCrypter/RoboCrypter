@@ -11,19 +11,19 @@
 ---
 
 
-- 🔭 I’m currently working on **: Ethereum Smart Contracts**
+- 🔭 I’m currently working on **Ethereum Smart Contracts**
 
-- 🌱 I’m currently learning **: Web3 Ecosystem**
+- 🌱 I’m currently learning **Web3 Ecosystem**
 
-- 👯 I’m looking to collaborate on **: Open Source projects**
+- 👯 I’m looking to collaborate on **Open Source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABossOfMyself?tab=repositories](https://github.com/ABossOfMyself?tab=repositories)
 
-- 💬 Ask me about **: Smart Contracts (Solidity) and Blockchain**
+- 💬 Ask me about **Smart Contracts (Solidity) and Blockchain**
 
-- 📫 How to reach me **: abossofmyself@gmail.com**
+- 📫 How to reach me **abossofmyself@gmail.com**
 
-- ⚡ Hobbies **: Competitive Games and Taekwondo**
+- ⚡ Hobbies **Competitive Games**
 
 
 
