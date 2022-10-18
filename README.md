@@ -58,13 +58,20 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
 </p>
 
+
 ---
+
+
+[![@abossofmyself's Holopin board](https://holopin.me/abossofmyself)](https://holopin.io/@abossofmyself)
+
+
+---
+
 
 <p align="center">
 <a href="https://github.com/ABossOfMyself?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=ABossOfMyself&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="ABossOfMyself github-readme-stats"/></a>
 <a href="https://github.com/ABossOfMyself?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ABossOfMyself&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="ABossOfMyself github-readme-streak-stats"/></a>
 </p>
-
 
 
 
