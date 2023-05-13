@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://twitter.com/robocrypter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abossofmyself" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/tqCnegmu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Vj47HFwx" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/35qThNdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/35qThNdf" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">I'm learning to be a Smart Contract/Blockchain Developer</h4>
@@ -17,11 +17,11 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/RoboCrypter?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/RoboCrypter?tab=repositories)
 
 - 💬 Ask me about **Smart Contracts (Solidity) and Blockchain**
 
-- 📫 How to reach me **abossofmyself@gmail.com**
+- 📫 How to reach me [**Discord**](https://discord.gg/35qThNdf)
 
 - ⚡ Hobbies **Competitive Games**
 
