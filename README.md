@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/RoboCrypter?tab=repositories)
+- 👨‍💻 All of my projects are available [**here**](https://github.com/RoboCrypter?tab=repositories)
 
 - 💬 Ask me about **Smart Contracts (Solidity) and Blockchain**
 
@@ -72,8 +72,8 @@
 
 
 <p align="center">
-<a href="https://github.com/ABossOfMyself?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=ABossOfMyself&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="ABossOfMyself github-readme-stats"/></a>
-<a href="https://github.com/ABossOfMyself?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ABossOfMyself&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="ABossOfMyself github-readme-streak-stats"/></a>
+<a href="https://github.com/RoboCrypter?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=RoboCrypter&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="RoboCrypter github-readme-stats"/></a>
+<a href="https://github.com/RoboCrypter?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=RoboCrypter&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="RoboCrypter github-readme-streak-stats"/></a>
 </p>
 
 
