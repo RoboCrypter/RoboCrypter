@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Smart Contracts (Solidity) and Blockchain**
 
-- 📫 How to reach me [**Discord**](https://discord.gg/35qThNdf)
+- 📫 How to reach me **DM** me on [**Twitter**](https://twitter.com/robocrypter)
 
 - ⚡ Hobbies **Competitive Games**
 
