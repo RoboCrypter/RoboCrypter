@@ -7,6 +7,7 @@
 <a href="https://dev.to/robocrypter" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="robocrypter" height="31" width="40" /></a>&nbsp
 <a href="https://hashnode.com/@robocrypter" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@robocrypter" height="35" width="35" /></a>&nbsp
 <a href="https://medium.com/@robocrypter" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HYq2S59Qama7XGP3ryEyErzYnhGrBqHcay31w1Slm2a_-F4eTnKI&usqp=CAE&s" alt="@robocrypter" height="35" width="35" /></a>&nbsp
+</p>
 
 <h4 align="left">I'm a Solidity | Smart Contract developer</h4>
 
