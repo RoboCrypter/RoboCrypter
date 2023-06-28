@@ -2,10 +2,13 @@
 
 <p align="left">
 <a href="https://twitter.com/robocrypter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abossofmyself" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/35qThNdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/35qThNdf" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/0xsiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="0xsiddique" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/ChQ7bJaM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ChQ7bJaM" height="40" width="40" /></a>&nbsp
+<a href="https://dev.to/robocrypter" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="robocrypter" height="31" width="40" /></a>&nbsp
+<a href="https://hashnode.com/@robocrypter" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@robocrypter" height="35" width="35" /></a>&nbsp
+<a href="https://medium.com/@robocrypter" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HYq2S59Qama7XGP3ryEyErzYnhGrBqHcay31w1Slm2a_-F4eTnKI&usqp=CAE&s" alt="@robocrypter" height="35" width="35" /></a>&nbsp
 
-<h4 align="left">I'm learning to be a Smart Contract/Blockchain Developer</h4>
+<h4 align="left">I'm a Solidity | Smart Contract developer</h4>
 
 
 ---
